@@ -4,6 +4,8 @@ This is a HAXcms generated and managed micro-site. It can run on it's own but it
 ## Course Description
 IST402 is Emerging Issues and Technologies. This section from4 to 7 on Wednesday talks about the technology used in the start up. The "Start up" culture is a world that lives by "move fast and break things". But how do you get into the start up scene? Or more importantly, what do you need to know in order to attract offers, and get your resume to stand out in a world where thousands of "IT workers" will graduate along side you.
 
+IST402 is Emerging Issues and Technologies. This section (002) is held from 4-7pm on Wednesdays. The goal of this course is to cover various technologies that cover major industry themes such as accessibility, user experience, content management systems (CMS), etc. Students will gain working knowledge of various platforms that underly the startup culture while building their digital identity as an IT professional. This digital identity will be covered across various social media platforms such as LinkedIn, YouTube, etc. The overarching theme of this course can be summed up into one question that students will be able to answer by the end of the semester: What sets you apart as a new graduate?
+
 ## Developer mode
 HAXcms primary audience is people doing things entirely through the UI. It is however creating everything in a way that's very developer friendly though. This means you can peal this off from the original place it came from and run this as a stand alone repo by:
 
